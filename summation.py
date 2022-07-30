@@ -6,4 +6,5 @@ def sum_(x, y):
     :return: integer: Summation of x & y
     """
     print("Hi There")
+    print("Hello World")
     return x + y
